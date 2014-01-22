@@ -1,0 +1,17 @@
+Library
+Temp
+Assembly-CSharp.csproj
+Assembly-CSharp-vs.csproj
+BuzzLancer.sln
+BuzzLancer-csharp.sln
+
+_ReSharper*
+
+[Bd]in
+[Rr]elease
+[Dd]ebug
+
+/Build
+
+Thumbs.db
+Desktop.ini
